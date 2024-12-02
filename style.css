@@ -1,0 +1,19 @@
+#sticky{
+    position: sticky;
+    top: 0;
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+#relative{
+    height: 1000px;/*adjust height to allow scrolling*/
+}
+#absolute{
+    position: absolute;
+    top: 150px;
+    left: 20px;
+    background-color: red;
+    color: white;
+    padding: 10px;
+}
